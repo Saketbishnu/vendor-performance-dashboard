@@ -1,0 +1,10 @@
+# Ignore large files
+*.db
+data/sales.csv
+data/purchases.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
